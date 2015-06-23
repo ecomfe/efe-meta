@@ -26,14 +26,20 @@
     {
         "name": "Saber",
         "desc": "移动 SPA 项目解决方案",
-        "intro": "提供了 JavaScript 模块、CSS 样式库与开发平台的完整前端解决方案。擅长移动端 SPA 项目、轻应用。",
-        "homepage": "http://ecomfe.github.io/saber/"
+        "intro": "为移动端与现代浏览器设计的，细粒度、模块化的前端应用框架。",
+        "homepage": "http://ecomfe.github.io/fate/#saber"
+    },
+    {
+        "name": "Rebas",
+        "desc": "JavaScript 同构解决方案",
+        "intro": "与 Saber 搭配使用、基于 Node 的 JavaScript 同构解决方案。",
+        "homepage": "http://ecomfe.github.io/fate/#rebas"
     },
     {
         "name": "Rider",
         "desc": "移动样式工具库",
-        "intro": "专为移动端设计的 Mixin 风格样式工具库。在其基础上创建了 Rider UI，一个灵活的 UI 样式库。",
-        "homepage": "https://github.com/ecomfe/rider"
+        "intro": "基于 Stylus 与后处理器，无侵入风格的 CSS 样式工具库。",
+        "homepage": "http://ecomfe.github.io/fate/#rider"
     },
     {
         "name": "ER",
