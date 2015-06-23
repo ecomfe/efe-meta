@@ -1,0 +1,22 @@
+{
+  "name": "efe-meta",
+  "version": "1.0.0",
+  "description": "Metadata for EFE projects.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecomfe/efe-meta.git"
+  },
+  "keywords": [
+    "metadata",
+    "EFE"
+  ],
+  "author": "Justineo",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/ecomfe/efe-meta/issues"
+  },
+  "homepage": "https://github.com/ecomfe/efe-meta",
+  "devDependencies": {
+    "etpl": "^3.0.1"
+  }
+}
