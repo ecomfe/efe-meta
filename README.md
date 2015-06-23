@@ -1,6 +1,10 @@
 ## Update
 
-Run `node compile.js` after update.
+```
+npm i
+```
+
+And remember to run `node compile.js` after update.
 
 ## Usage
 
