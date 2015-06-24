@@ -16,7 +16,7 @@ var xhr = new XMLHttpRequest();
 xhr.open('GET', 'http://ecomfe.github.io/efe-meta/html/full-intro.html', true);
 xhr.send();
 xhr.onreadystatechange = function() {
-    if (xhr.readyState == 4 && xhr.status == 200) {
+    if (xhr.readyState === 4 && xhr.status === 200) {
         document.getElementById('links').insertAdjacentHTML('beforeend', xhr.responseText);
     }
 };
