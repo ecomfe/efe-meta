@@ -15,7 +15,7 @@
         "name": "EDP",
         "desc": "前端开发平台",
         "intro": "提供了前端开发时常用工具：项目管理、包管理、调试、构建、代码生成、代码检测等，并允许用户自定义扩展。",
-        "homepage": "https://github.com/ecomfe/edp"
+        "homepage": "http://ecomfe.github.io/edp/"
     },
     {
         "name": "EST",
