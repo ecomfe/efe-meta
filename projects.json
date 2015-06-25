@@ -44,7 +44,7 @@
     {
         "name": "ER",
         "desc": "SPA 应用框架",
-        "intro": "富浏览器端 web 应用的框架，适用于并能很方便地构建一个整站式的 AJAX web 应用。",
+        "intro": "富浏览器端 Web 应用的框架，适用于并能很方便地构建一个整站式的 AJAX Web 应用。",
         "homepage": "https://github.com/ecomfe/er"
     },
     {
