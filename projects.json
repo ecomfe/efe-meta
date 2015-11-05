@@ -76,5 +76,11 @@
         "desc": "首个纯 JS 字体子集化方案",
         "intro": "第一个纯 JavaScript 字体子集化方案，让 @font-face 在中文世界成为可能。",
         "homepage": "http://ecomfe.github.io/fontmin/"
+    },
+    {
+        "name": "FECS",
+        "desc": "前端代码风格检查套件",
+        "intro": "前端代码风格检查套件，包含 HTML、CSS、JavaScript 与 Less 代码的检查与修复。",
+        "homepage": "http://fecs.baidu.com/"
     }
 ]
