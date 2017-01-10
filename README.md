@@ -13,7 +13,7 @@ Vanilla JS:
 ```html
 <script>
 var xhr = new XMLHttpRequest();
-xhr.open('GET', 'http://ecomfe.github.io/efe-meta/html/full-intro.html', true);
+xhr.open('GET', '/efe-meta/html/full-intro.html', true);
 xhr.send();
 xhr.onreadystatechange = function() {
     if (xhr.readyState === 4 && xhr.status === 200) {
@@ -27,7 +27,7 @@ jQuery:
 
 ```html
 <script>
-$.get('http://ecomfe.github.io/efe-meta/html/full-intro.html').then(function (html) {
+$.get('/efe-meta/html/full-intro.html').then(function (html) {
     $('#links').append(html);
 });
 </script>
