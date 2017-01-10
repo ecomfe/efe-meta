@@ -1,4 +1,11 @@
 [
+
+    {
+        "name": "FECS",
+        "desc": "前端代码风格检查套件",
+        "intro": "前端代码风格检查套件，包含 HTML、CSS、JavaScript 与 Less 代码的检查与修复。",
+        "homepage": "http://fecs.baidu.com/"
+    },
     {
         "name": "ECharts",
         "desc": "数据可视化图表库",
@@ -42,6 +49,12 @@
         "homepage": "http://ecomfe.github.io/fate/#rider"
     },
     {
+        "name": "San",
+        "desc": "MVVM 组件框架",
+        "intro": "一套 MVVM 的组件框架，体积小、性能高、兼容性好，适用于 SPA 和传统 Web 应用。",
+        "homepage": "https://ecomfe.github.io/san/"
+    },
+    {
         "name": "ER",
         "desc": "SPA 应用框架",
         "intro": "富浏览器端 Web 应用的框架，适用于并能很方便地构建一个整站式的 AJAX Web 应用。",
@@ -60,12 +73,6 @@
         "homepage": "http://ecomfe.github.io/etpl"
     },
     {
-        "name": "iSlider",
-        "desc": "轻量、高性能的移动滑动方案",
-        "intro": "表现出众，无任何插件依赖的手机平台 JavaScript 滑动组件。",
-        "homepage": "http://be-fe.github.io/iSlider/"
-    },
-    {
         "name": "图说",
         "desc": "可视化数据分享平台",
         "intro": "一个向广大用户提供数据可视化服务平台。",
@@ -76,11 +83,5 @@
         "desc": "首个纯 JS 字体子集化方案",
         "intro": "第一个纯 JavaScript 字体子集化方案，让 @font-face 在中文世界成为可能。",
         "homepage": "http://ecomfe.github.io/fontmin/"
-    },
-    {
-        "name": "FECS",
-        "desc": "前端代码风格检查套件",
-        "intro": "前端代码风格检查套件，包含 HTML、CSS、JavaScript 与 Less 代码的检查与修复。",
-        "homepage": "http://fecs.baidu.com/"
     }
 ]
