@@ -32,3 +32,13 @@ $.get('/efe-meta/html/full-intro.html').then(function (html) {
 });
 </script>
 ```
+
+Cross Domain:
+
+```html
+<script charset="UTF-8" src="https://ecomfe.github.io/efe-meta/js/full-intro.js">
+$.get('/efe-meta/html/full-intro.html').then(function (html) {
+    $('#links').append(html);
+});
+</script>
+```
